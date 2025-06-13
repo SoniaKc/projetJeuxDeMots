@@ -18,8 +18,8 @@ Si la réponse ressemble à "Python 3.12.1", vous avez la bonne version de Pytho
 
 Vous êtes à présent libres de modifier et lancer chaque fichier.
 
-# Pour lancer une inférence : 
-Sélectionnez le fichier avec l'inférence souhaitée (déduction, induction, synonyme ou transitivité) et tout à la fin du fichier, décommentez la ligne correspondant à l'exemple souhaité. 
+# Pour lancer une inférence  
+Sélectionnez le fichier avec le type d'inférence souhaitée (déduction, induction, synonyme ou transitivité) et tout à la fin du fichier, décommentez la ligne correspondant à l'exemple souhaité. 
 
 Vous pouvez également créer un exemple en respectant la syntaxe et en ajoutant, si elle n'y est pas déjà, la relation voulue dans le dictionnaire "numsRelations" juste au dessus, associée à son numéro dans la base de données JDM.
 
