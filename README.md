@@ -25,7 +25,7 @@ Vous pouvez également créer un exemple en respectant la syntaxe et en ajoutant
 
 N'oubliez pas d'enregistrer vos modifications (CTRL+S).
 
-Une fois la ligne décommentée et vos modifications enregistrées, ouvrez un terminal et placez vous dans le dossier où se trouvent les 4 fichiers d'inférence (voir commandes bash pour se déplacer).
+Une fois la ligne décommentée et vos modifications enregistrées, ouvrez un terminal et placez vous dans le dossier où se trouvent les 4 fichiers d'inférence (voir la commande bash ```cd``` pour se déplacer).
 
 Pour lancer un fichier, tapez dans votre terminal :
 ```bash
