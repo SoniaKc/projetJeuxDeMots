@@ -1,6 +1,6 @@
 # Consignes d'utilisation
 
-* Commencez par vérifiez que avez bien Python d'insatallé : ouvrez un terminal et tapez :
+* Commencez par vérifiez que avez bien Python d'insatallé : ouvrez un terminal et tapez 
 ```bash
 python3 --version
 ``` 
