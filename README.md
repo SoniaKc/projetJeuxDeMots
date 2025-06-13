@@ -11,9 +11,10 @@ Si la réponse ressemble à "Python 3.12.1", vous avez la bonne version de Pytho
 2) un fichier inducAnnoReff.py
 3) un fichier synonymeAnnoRaff.py 
 4) un fichier transitivitéAnnoRaff.py
-5) un dossier cache, vide
 
-* Ouvrez le dossier dans votre IDE favori.
+* Dans le même répertoire que celui contenant ces 4 fichiers, donc dans "renduJDM", créez un dosser vide et nommez le "cache".
+
+* Ouvrez le dossier "renduJDM" dans votre IDE favori.
 
 Vous êtes à présent libres de modifier et lancer chaque fichier.
 
