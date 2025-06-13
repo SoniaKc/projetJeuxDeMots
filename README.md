@@ -10,7 +10,7 @@ Si la réponse ressemble à "Python 3.12.1", vous avez la bonne version de Pytho
 1) un fichier deducAnnoRaff.py
 2) un fichier inducAnnoReff.py
 3) un fichier synonymeAnnoRaff.py 
-4) un fichier transitivitéAnnoRaff.py
+4) un fichier transitiviteAnnoRaff.py
 
 * Dans le même répertoire que celui contenant ces 4 fichiers, donc dans "renduJDM", créez un dosser vide et nommez le "cache".
 
