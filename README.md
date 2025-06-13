@@ -21,11 +21,11 @@ Vous êtes à présent libres de modifier et lancer chaque fichier.
 # Pour lancer une inférence  
 Sélectionnez le fichier avec le type d'inférence souhaitée (déduction, induction, synonyme ou transitivité) et tout à la fin du fichier, décommentez la ligne correspondant à l'exemple souhaité. 
 
-Vous pouvez également créer un exemple en respectant la syntaxe et en ajoutant, si elle n'y est pas déjà, la relation voulue dans le dictionnaire "numsRelations" juste au dessus, associée à son numéro dans la base de données JDM.
+Vous pouvez également créer un exemple en respectant la syntaxe et en ajoutant, si elle n'y est pas déjà, la relation voulue dans le dictionnaire "numsRelations" juste au dessus, associée à son numéro dans la base de données JDM (liste des relation à cette url : https://www.jeuxdemots.org/jdm-about-detail-relations.php).
 
 N'oubliez pas d'enregistrer vos modifications (CTRL+S).
 
-Une fois la ligne décommentée et vos modifications enregistrées, ouvrez un terminal et placez vous dans le dossier où se trouvent les 4 fichiers d'inférence.
+Une fois la ligne décommentée et vos modifications enregistrées, ouvrez un terminal et placez vous dans le dossier où se trouvent les 4 fichiers d'inférence (voir commandes bash pour se déplacer).
 
 Pour lancer un fichier, tapez dans votre terminal :
 ```bash
